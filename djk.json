@@ -1,6 +1,7 @@
 [
   {
     "id": "6d95fal7c7e40bea",
+    "name": "vall1",
     "username": "test1",
     "password": "test123",
     "expiresAt": "2025-12-31",
@@ -8,6 +9,7 @@
   },
   {
     "id": "e0ecf6d078e1c801",
+    "name": "vall2",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2026-11-30",
