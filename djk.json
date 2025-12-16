@@ -23,4 +23,12 @@
     "expiresAt": "2026-12-31",
     "allowOffline": true
   },
+  {
+    "id": "9403af53fe96625c",
+    "name": "RAMA",
+    "username": "rama",
+    "password": "123",
+    "expiresAt": "2025-12-16",
+    "allowOffline": true
+  }
 ]
