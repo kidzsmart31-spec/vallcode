@@ -29,6 +29,6 @@
     "username": "rama",
     "password": "0231",
     "expiresAt": "2026-01-16",
-    "allowOffline": true
+    "allowOffline": false
   },
 ]
