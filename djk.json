@@ -23,4 +23,12 @@
     "expiresAt": "2026-12-31",
     "allowOffline": true
   },
+  {
+    "id": "002d8428cc081d74",
+    "name": "COBA",
+    "username": "coba",
+    "password": "1234",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
 ]
