@@ -1,0 +1,18 @@
+{
+  "AdminUrl": "https://t.me/CIBONAPP",
+  "Marquee": "Lakukan Perpanjangan Verifikasi Device Anda Ke Admin.",
+  "Users": [
+    {
+      "ID": "3BA4A93F018DC799",
+      "Expiry": "27/12/2026"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    },
+    {
+      "ID": "bbbbjjj",
+      "Expiry": "28/12/2025"
+    }
+  ]
+}
