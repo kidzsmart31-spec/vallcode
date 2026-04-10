@@ -4,7 +4,7 @@
     "username": "dpmods",
     "password": "dpmods",
     "expiresAt": "2026-04-12",
-    "allowOffline": true
+    "allowOffline": false
   },
   
 ]
